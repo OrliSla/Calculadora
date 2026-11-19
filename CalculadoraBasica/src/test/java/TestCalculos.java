@@ -11,9 +11,9 @@ import orlando.itszn.edu.mx.calculadorabasica.Calculos;
  *
  * @author orlan
  */
-public class PruebasCalculos {
+public class TestCalculos {
     
-    public PruebasCalculos() {
+    public TestCalculos() {
     }
     
     Calculos instancia=new Calculos();
