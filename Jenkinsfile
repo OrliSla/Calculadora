@@ -7,7 +7,7 @@ pipeline{
       githubPush()
    }
    environment{
-        POM="./CalculadoraBasica/pom.xmlblo"
+        POM="./CalculadoraBasica/pom.xml"
    }
    stages{
       stage('Descarga'){
